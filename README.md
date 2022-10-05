@@ -9,7 +9,7 @@
 * Learn the difference between var, const and final.
 
 ## Note
-
+```
 void main(){
   SelfDrivingCar myWaymo = SelfDrivingCar('1 Hacker Way');
 }
@@ -52,3 +52,4 @@ class Human{
     double height;
     Human({this.height})
 }
+```
